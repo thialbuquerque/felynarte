@@ -1,2 +1,2 @@
 # felynarte
-Repository destined to work on Felynarte web page, a **portifolio** and **E-commerce** platform for the brazilian artist called Lyn Janis, creator of the Felynarte collection of authorial works. 
+Felynarte is a **portifolio** and **E-commerce** website to exhibit and sell the works of the brazilian artist called Lyn Janis, creator of the Felynarte collection of authorial artistical works. The website is supposed to mirror her image, not only through her works, but actually through the whole design as well, making people feel curious and attracted to what she has to show in a very special and cosily manner. Enjoy! 
